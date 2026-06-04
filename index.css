@@ -1,0 +1,15 @@
+.header{
+    text-align: center;
+    color: blue;
+    font-family: cursive;
+    font-size: 30px;   
+}
+.form{
+    border: 2px solid rgb(0, 255, 42);
+    width: 60vw;
+    height: 70vh;
+    margin: auto;
+    border-radius: 15px;
+    background-color: blue;
+
+}
